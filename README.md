@@ -132,6 +132,7 @@ This work references the following open-source repositories:
 - [VI-Net](https://github.com/JiehongLin/VI-Net)
 - [HouseCat6D Toolbox](https://github.com/Junggy/HouseCat6D)
 - [AG-Pose](https://github.com/Leeiieeo/AG-Pose)
+
 We would like to express our sincere gratitude to the contributors.
 
 ## License
